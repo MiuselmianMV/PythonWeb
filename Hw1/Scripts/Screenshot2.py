@@ -50,6 +50,7 @@ def FindFirstPositiveIndex(lst: list) -> int:
     return first_positive_index
 
 
+
 def FindLastPositiveIndex(lst: list) -> int:
     """
     Эта функция находит индекс последнего положительного элемента в списке."""
